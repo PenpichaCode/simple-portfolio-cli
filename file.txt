@@ -1,0 +1,65 @@
+Create a modern, minimalist portfolio website with the following design system:
+
+### COLOR PALETTE
+- Primary Background: [COLOR] (e.g., #FFFFFF or #0A0A0A)
+- Secondary Background: [COLOR] (for cards/sections)
+- Accent Color: [COLOR] (buttons, links, highlights)
+- Text Primary: [COLOR] (headings)
+- Text Secondary: [COLOR] (body text, descriptions)
+- Border/Divider: [COLOR] (subtle separators)
+
+### TYPOGRAPHY
+- Heading Font: [FONT NAME] (e.g., Inter, Playfair Display, Space Grotesk)
+- Body Font: [FONT NAME] (often same as heading or complementary sans-serif)
+- Scale:
+  - H1: [SIZE]px / [WEIGHT] / [LINE-HEIGHT]
+  - H2: [SIZE]px / [WEIGHT]
+  - H3: [SIZE]px / [WEIGHT]
+  - Body: [SIZE]px / [WEIGHT]
+  - Caption/Label: [SIZE]px / [WEIGHT] / uppercase optional
+
+### LAYOUT BLOCKS
+1. **Navigation Bar**
+   - Logo/Name on left, links on right
+   - Fixed/sticky position
+   - Minimal height (60-80px)
+
+2. **Hero Section**
+   - Large typography focus
+   - Name + tagline + brief intro
+   - Optional: circular/square profile image
+   - CTA button (Contact/Download Resume)
+
+3. **About Section**
+   - Two-column or single centered layout
+   - Bio paragraph + skills tags
+   - Profile image
+
+4. **Projects/Work Section**
+   - Grid layout (2-3 columns)
+   - Project cards with:
+     - Thumbnail image
+     - Project title
+     - Brief description
+     - Tech stack tags
+     - Link icons
+
+5. **Experience/Resume Section**
+   - Timeline layout or card list
+   - Company, role, dates, description
+
+6. **Contact/Footer**
+   - Social links
+   - Email CTA
+   - Copyright
+
+### SPACING & BORDERS
+- Section padding: [VALUE]px vertical
+- Container max-width: [VALUE]px (typically 1200px)
+- Card border-radius: [VALUE]px (typically 8-16px)
+- Grid gap: [VALUE]px
+
+### EFFECTS
+- Hover states: [describe - e.g., subtle lift, color shift]
+- Shadows: [e.g., none, soft shadow on cards]
+- Animations: [e.g., fade-in on scroll, hover transitions]
